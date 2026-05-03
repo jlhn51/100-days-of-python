@@ -10,7 +10,7 @@ Each folder contains a self-contained project with its own README.
 ## 📊 Progress
 
 **Current day:** 5 / 100  
-**Started:** 29/04/2026
+**Started:** 2026-04-29
 
 ---
 
@@ -20,22 +20,23 @@ Each folder contains a self-contained project with its own README.
 | Day | Project | Concepts |
 |-----|---------|----------|
 | 01  | [Band Name Generator](./day-01-band-name-generator) | print, input, variables |
-| 02  | [Tip Calculator](./day-02-tip-calculator) | data types, math operators |
-| 03  | [Treasure Island](./day-03-treasure-island) | control flow, conditionals |
-| 04  | [Rock Paper Scissors](./day-04-rock-paper-scissors) | randomization, lists |
-| 05  | [Password Generator](./day-05-password-generator) | for loops |
+| 02  | [Tip Calculator](./day-02-tip-calculator) | data types, type conversion, f-string formatting |
+| 03  | [Treasure Island](./day-03-treasure-island) | control flow, conditionals, nested logic |
+| 04  | [Rock Paper Scissors](./day-04-rock-paper-scissors) | randomization, lists, boolean logic |
+| 05  | [Password Generator](./day-05-password-generator) | for loops, random module, string module |
 
-### Intermediate (Days 15–) 
+### Intermediate (Days 15–)
 *Coming soon.*
 
 ---
 
 ## 🛠️ Tech
 
-- Python 3.14.2
+- Python 3
 - Standard library only (so far)
 
 ---
 
 ## 📖 About this course
 
+[Angela Yu's 100 Days of Code: Python](https://www.udemy.com/course/100-days-of-code/) is a project-based Python bootcamp covering everything from basics to web development, data science, and automation. I'm working through it daily to build real engineering fundamentals.
