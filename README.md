@@ -26,6 +26,7 @@ Each folder contains a self-contained project with its own README.
 | 05  | [Password Generator](./day-05-password-generator) | for loops, random module, string module |
 | 06  | [Escaping the Maze](./day-06-escaping-the-maze/) | functions, while loops, abstraction |
 | 07  | [Hangman](./day-07-hangman/) | while loops, file I/O, multi-file projects, lists
+| 08  | [Caesar Cipher](./day-08-caesar-cipher/) | functions, parameters, return values
 
 ### Intermediate (Days 15–)
 *Coming soon.*
