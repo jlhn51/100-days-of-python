@@ -28,6 +28,7 @@ Each folder contains a self-contained project with its own README.
 | 07  | [Hangman](./day-07-hangman/) | while loops, file I/O, multi-file projects, lists |
 | 08  | [Caesar Cipher](./day-08-caesar-cipher/) | functions, parameters, return values |
 | 09  | [Secret Auction](./day-09-secret-auction/) | dictionaries, tuple unpacking, os module |
+| 10  | [Calculator](./day-10-calculator/) | dictionaries of functions, recursion, docstrings |
 
 ### Intermediate (Days 15–)
 *Coming soon.*
