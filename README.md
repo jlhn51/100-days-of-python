@@ -29,6 +29,7 @@ Each folder contains a self-contained project with its own README.
 | 08  | [Caesar Cipher](./day-08-caesar-cipher/) | functions, parameters, return values |
 | 09  | [Secret Auction](./day-09-secret-auction/) | dictionaries, tuple unpacking, os module |
 | 10  | [Calculator](./day-10-calculator/) | dictionaries of functions, recursion, docstrings |
+| 11  | [Blackjack](./day-11-blackjack/) | bottom-up design, game state, helper functions |
 
 ### Intermediate (Days 15–)
 *Coming soon.*
