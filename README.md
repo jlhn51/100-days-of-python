@@ -30,6 +30,7 @@ Each folder contains a self-contained project with its own README.
 | 09  | [Secret Auction](./day-09-secret-auction/) | dictionaries, tuple unpacking, os module |
 | 10  | [Calculator](./day-10-calculator/) | dictionaries of functions, recursion, docstrings |
 | 11  | [Blackjack](./day-11-blackjack/) | bottom-up design, game state, helper functions |
+| 12  | [Number Guessing Game](./day-12-number-guessing-game/) | constants, validation, scope, source of single truth |
 
 ### Intermediate (Days 15–)
 *Coming soon.*
